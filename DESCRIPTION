@@ -1,0 +1,11 @@
+Package: googleanalytics4r
+Type: Package
+Title: Google Analytics API for R
+Version: 0.1-0
+Date: 2009-11-17
+Author: Soren Macbeth <soren@dopeness.org>
+Maintainer: Soren Macbeth <soren@dopeness.org>
+Description: Google Analytics API for R
+Depends: R (>= 2.8.0), RCurl, XML
+License: GPL-3
+LazyLoad: yes
